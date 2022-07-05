@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello everybody! :smile:
 
-<!--
-**RicardoVrgas/RicardoVrgas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am learning php.
+- I have knowledge of JS, TS, JAVA, C# and Python.
+- I like web development.
 
-Here are some ideas to get you started:
+# Actual Proyects
+- Plugins for pocketmine (JLMessages and MultiWorldItems).
+- Laravel web application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Work in progress
+## Php
+- ### Pocketmine
+  - World generator\manager.
+  - Player vs Player gamemodes.
+  - Form creator with FormApi
+  - coming soon..
+## JS
+- ### Discord JS
+    - #### Bot
+        - Admin
+        - Youtube Player
+        - Reaction roles
+        - Other functions
